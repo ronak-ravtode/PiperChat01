@@ -144,7 +144,7 @@ function Navbar({ new_req_recieved, user_cred, onNavigate }) {
         title="Home"
       >
         <span className="relative z-10 grid h-12 w-12 place-items-center overflow-hidden rounded-2xl">
-          <img src={discord_logo} alt="PiperChat" className="h-7 w-7" />
+          <img src={discord_logo} alt="PiperChat" className="h-11 w-11" />
         </span>
         {dmUnreadTotal ? (
           <span className="absolute -right-1 -top-1 z-20 grid h-6 min-w-6 place-items-center rounded-full bg-brand-400 px-2 text-[11px] font-black text-black shadow-soft">
