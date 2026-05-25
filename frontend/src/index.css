@@ -66,3 +66,49 @@
     transform: translateY(-6px);
   }
 }
+
+
+.dark {
+  --bg-primary: #0f1117;
+  --text-primary: white;
+}
+
+.light {
+  --bg-primary: #f8fafc;
+  --text-primary: #111827;
+}
+
+.purple {
+  --bg-primary: #221b38;
+  --text-primary: white;
+}
+
+.blue {
+  --bg-primary: #18283d;
+  --text-primary: white;
+}
+
+.green {
+  --bg-primary: #1b3327;
+  --text-primary: white;
+}
+
+.pink {
+  --bg-primary: #352133;
+  --text-primary: white;
+}
+
+.orange {
+  --bg-primary: #3a2a20;
+  --text-primary: white;
+}
+
+.cyan {
+  --bg-primary: #1d3138;
+  --text-primary: white;
+}
+
+.gold {
+  --bg-primary: #3a3420;
+  --text-primary: white;
+}
