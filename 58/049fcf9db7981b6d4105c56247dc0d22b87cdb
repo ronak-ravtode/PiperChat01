@@ -1,0 +1,39 @@
+frontend/src/components/directMessages/DirectMessage.jsx
+  s_96d1ce056bb489::t_6ca8ecf89059c1 22,60,62-63,275,386
+  s_96d1ce056bb489::t_fdb1e6b668b67d 61
+frontend/src/components/chat/messages/ValidChat.jsx
+  s_96d1ce056bb489::t_a96951c15f3345 146,148,392,550
+  h_c5a3d01edfee72 149
+  s_96d1ce056bb489::t_54edb719fb53d3 147
+frontend/src/index.css
+  s_0a340558ee3ead::t_6b53bc11843bcd 69-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "58049fcf9db7981b6d4105c56247dc0d22b87cdb",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0a340558ee3ead": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1bc7f8421ffe8KJJsov42ch0U9",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    },
+    "s_96d1ce056bb489": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1a27c117effeNE5zk1ijY2ePQL",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
