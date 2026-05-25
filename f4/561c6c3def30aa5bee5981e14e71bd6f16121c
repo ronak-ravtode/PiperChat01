@@ -1,0 +1,19 @@
+frontend/src/components/chat/messages/ValidChat.jsx
+  s_96d1ce056bb489::t_f8f83da8d87b0f 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "f4561c6c3def30aa5bee5981e14e71bd6f16121c",
+  "prompts": {},
+  "sessions": {
+    "s_96d1ce056bb489": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1a27c117effeNE5zk1ijY2ePQL",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
